@@ -12,3 +12,5 @@ short_description: Balances both market demands (companies) and job seekers
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+check it https://huggingface.co/spaces/SivaMallikarjun/AI-powered-recruitment-system
